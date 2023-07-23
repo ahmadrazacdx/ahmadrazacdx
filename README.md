@@ -1,18 +1,22 @@
 <h1 align="center">Hi 👋, I'm Ahmad Raza</h1>
-<h3 align="center">A Passionate Software Engineer From Pakistan</h3>
+<h3 align="center">Passionate Software Engineer From Pakistan</h3>
 <img align="right" alt="coding" width="400" src="https://github.com/ahmadrazacdx/ahmadrazacdx/blob/main/Coding.gif">
 
-- 🔭 I’m currently working on **Software Engineering**
+- 🔭 I’m currently  **Studying Software Engineering**
 
-- 🌱 I’m currently learning **Software Engineering, Data Science etc.**
+- 🌱 I’m learning   **Software Engineering, Data Science etc.**
 
-- 💬 Ask me about **Python, Pandas, NumPy, MatplotLib**
+- 📫 To reach me          **ahmee2.0ofc@gmail.com**
 
-- 📫 How to reach me **ahmee2.0ofc@gmail.com**
+- ⚡ Fun fact                 **I'm kinda Introvert 😀**
 
-- ⚡ Fun fact **I'm kinda Introvert 😀**
+## Skills & Experience
+- 💻Python
+- 📈Numpy, Pandas, MatplotLib
+- 🔬Data Science
+- ⚙️Machine Learning
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Contacts</h3>
 <p align="left">
 <a href="https://twitter.com/ahmadraza511" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ahmadraza511" height="30" width="40" /></a>
 <a href="https://instagram.com/vibee_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vibee_" height="30" width="40" /></a>
