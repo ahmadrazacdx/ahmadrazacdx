@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ahmad Raza</h1>
 <h3 align="center">A Passionate Software Engineer From Pakistan</h3>
+<img align="right" alt="coding" width="400" src="https://github.com/ahmadrazacdx/ahmadrazacdx/blob/main/Coding.gif">
 
 - 🔭 I’m currently working on **Software Engineering**
 
