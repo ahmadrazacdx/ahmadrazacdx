@@ -2,13 +2,15 @@
 <h3 align="center">Passionate Software Engineer From Pakistan</h3>
 <img align="right" alt="coding" width="400" src="https://github.com/ahmadrazacdx/ahmadrazacdx/blob/main/Coding.gif">
 
-- 🔭 I’m currently  **Studying Software Engineering**
+- 🔭 I’m currently  **Studying Software Engineering.**
 
 - 🌱 I’m learning   **Software Engineering, Data Science etc.**
 
 - 📫 To reach me          **ahmee2.0ofc@gmail.com**
 
-- ⚡ Fun fact                 **I'm kinda Introvert 😀**
+- 🧩 Interests         **Programming, Data Visualization & Insights, Gaming, etc.**
+
+- ⚡ Fun fact                 **I'm kinda Introvert. 😀**
 
 ## Skills & Experience
 - 💻Python
