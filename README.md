@@ -25,15 +25,13 @@
 - ### Data Science Stack
 ![NumPy](https://img.shields.io/badge/-NumPy-013243?logo=numpy)
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas)
-![Matplotlib Badge](https://img.shields.io/badge/-Matplotlib-3776AB?logo=matplotlib&logoColor=white)
-![Plotly Badge](https://img.shields.io/badge/-Plotly-3f4f75?logo=plotly&logoColor=white)
-![Seaborn Badge](https://img.shields.io/badge/-Seaborn-4B8BBE?logo=seaborn&logoColor=white)
-![Scikit-learn Badge](https://img.shields.io/badge/-Scikit--learn-F7931E?logo=scikit-learn&logoColor=white)
-![XGBoost Badge](https://img.shields.io/badge/-XGBoost-4E9BCD?logoColor=white)
-![LightGBM Badge](https://img.shields.io/badge/-LightGBM-00B200?logoColor=white)
-![CatBoost Badge](https://img.shields.io/badge/-CatBoost-F18E33?logoColor=white)
-![XGBoost](https://img.shields.io/badge/-XGBoost-3776AB)
-![LightGBM](https://img.shields.io/badge/-LightGBM-0179F2)
+![Matplotlib](https://img.shields.io/badge/-Matplotlib-3776AB?logo=matplotlib&logoColor=white)
+![Plotly](https://img.shields.io/badge/-Plotly-3f4f75?logo=plotly&logoColor=white)
+![Seaborn](https://img.shields.io/badge/-Seaborn-4B8BBE?logo=seaborn&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-F7931E?logo=scikit-learn&logoColor=white)
+![XGBoost](https://img.shields.io/badge/-XGBoost-4E9BCD?logoColor=white)
+![LightGBM](https://img.shields.io/badge/-LightGBM-00B200?logoColor=white)
+![CatBoost](https://img.shields.io/badge/-CatBoost-F18E33?logoColor=white)
 ![Optuna](https://img.shields.io/badge/-Optuna-0179F2)
 
 - ### MLOPs & Deployment
@@ -62,7 +60,7 @@
 [![🎶 Music](https://img.shields.io/badge/🎶_Music-Classical_%7C_Bollywood-2D3748?logo=music&logoColor=white)](https://open.spotify.com/playlist/61TBnzuchphnHGuGnvY2b6?si=0G-P8CvUQk6kkEZ30Xhjrg&pi=dYAWrur2Tp2Fp)
 [![Books](https://img.shields.io/badge/Reading-Literature%20%7C%20Novels-2D3748?logo=bookstack)](#)
 [![Poetry](https://img.shields.io/badge/Writing-Poetry%20|%20Thoughts-2D3748?logo=writedotas)](#)
-[![Nature](https://img.shields.io/badge/Nature-Observer%20|%20Nature_Admirer-2D3748?logo=leaflet)](#)
+[![Nature](https://img.shields.io/badge/Nature-Observer%20|%20Admirer-2D3748?logo=leaflet)](#)
 
 </div>
 
