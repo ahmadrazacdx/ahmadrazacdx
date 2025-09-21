@@ -1,18 +1,5 @@
-<h1 align="center">Ahmad Raza</h1>
-<h3 align="center">Machine Learning Engineer & Data Scientist</h3>
-
-<p align="center">
-  <em>"Livin that overfitted life—tryna regularize"</em>
-</p>
 
 ---
-
-## 🧬 Skills & Experience
-- **Data Analysis & Visualization**
-- **Feature Engineering & Management**
-- **Model Development & Optimization**
-- **Model Deployment & MLOps**
-
 ## 🛠️ Tools and Technologies
 
 - ### Programming Languages
@@ -53,27 +40,11 @@
 ![AzureML Badge](https://img.shields.io/badge/-Azure_ML-0085CA?logo=microsoft-azure&logoColor=white)
 ---
 ## 🎨 Beyond Code
-
-<div align="center">
-
 [![Chess](https://img.shields.io/badge/Chess-950_Elo_(Lichess)-2D3748?logo=chess.com)](https://lichess.org/@ahmadcdx)
 [![🎶 Music](https://img.shields.io/badge/🎶_Music-Classical_%7C_Bollywood-2D3748?logo=music&logoColor=white)](https://open.spotify.com/playlist/61TBnzuchphnHGuGnvY2b6?si=0G-P8CvUQk6kkEZ30Xhjrg&pi=dYAWrur2Tp2Fp)
 [![Books](https://img.shields.io/badge/Reading-Literature%20%7C%20Novels-2D3748?logo=bookstack)](#)
 [![Poetry](https://img.shields.io/badge/Writing-Poetry%20|%20Thoughts-2D3748?logo=writedotas)](#)
 [![Nature](https://img.shields.io/badge/Nature-Observer%20|%20Admirer-2D3748?logo=leaflet)](#)
 
-</div>
 
-## ✉️ Contact
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/ahmadrazacdx/">
-    <img src="https://img.shields.io/badge/LinkedIn-181717?logo=linkedin&logoColor=white" height=30>
-  </a>
-  <a href="ahmadrazacdx@gmail.com">
-    <img src="https://img.shields.io/badge/Email-181717?logo=gmail&logoColor=white" height=30>
-  </a>
-  <a href="https://www.github.com/ahmadrazacdx">
-    <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" height=30>
-  </a>
-</p>
